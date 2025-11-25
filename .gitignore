@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 env/
 .env
 
+=======
+env/
+.env
+.env*
+>>>>>>> 74da55a4cda22045181359bf439ec72c681f887c
